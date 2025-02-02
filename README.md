@@ -1,2 +1,6 @@
-# avml
-avml Launcher
+# AVML Launcher
+All Versions Minecraft Launcher by I114rk
+Я сделал этот лаунчер за 3 часа не судите строго
+Просто лаунчер почти со всеми версиями игры Майнкрафт
+Сделано на C#
+Иконка WinRar потому что делал SFX архив со всеми файлами игры
